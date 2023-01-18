@@ -3,8 +3,8 @@
   "version": "2.0.13",
   "license": "MIT",
   "files": [
-    "20/",
     "24/",
+    "rap/",
     "README.md"
   ],
   "scripts": {
